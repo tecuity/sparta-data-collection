@@ -1,0 +1,10 @@
+Settings.settings
+App.config
+obj/Release
+obj/Debug
+obj/
+bin/
+packages/
+Settings.Designer.cs
+.suo
+*.user
